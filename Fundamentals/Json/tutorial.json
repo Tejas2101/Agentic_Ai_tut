@@ -1,0 +1,27 @@
+[{
+    "name" : "Tejas",
+    "age" : 25,
+    "Male" : true,
+    "hobbies" : ["cooking", "wandering"],
+
+    "friends"  : [{
+        "name" : "Varun",
+    "age" : 25,
+    "Male" : true,
+    "hobbies" : ["Smoking", "shoping"]
+    }]
+},
+{
+    "name" : "Sudeep",
+    "age" : 25,
+    "Male" : true,
+    "hobbies" : ["Cooking", "Wandering"],
+
+    "friends"  : [{
+        "name" : "Charitha",
+    "age" : 25,
+    "Male" : false,
+    "hobbies" : ["No idea", "Shopping"]
+    }, {"others" : "Some more available"}]
+}
+]
