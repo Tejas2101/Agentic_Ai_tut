@@ -1,5 +1,5 @@
 ##Creting a local website in python
-# export FLASK_APP=application.py 
+# export FLASK_APP=flask_application.py
 # export FLASK_ENV=development
 #flask run
 
